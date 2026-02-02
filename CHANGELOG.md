@@ -2,6 +2,14 @@
 
 ## Unreleased
 
+- added: (ChangeHero) Monad support
+- added: (ChangeNow) Monad and opBNB support
+- added: (LiFi) Monad and opBNB support
+- added: (Maya) MAYAChain (CACAO) support
+- added: (Rango) MAYAChain and Monad support
+- added: (SideShift) Monad support
+- added: (SwapKit) Monad support
+
 ## 2.40.4 (2026-01-15)
 
 - fixed: Fix Rango EVM approval address

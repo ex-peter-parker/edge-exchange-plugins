@@ -50,7 +50,7 @@ swapkit.set('LTC', null)
 swapkit.set('MAYA', null)
 
 // Display Name: MONAD
-swapkit.set('MONAD', null)
+swapkit.set('MONAD', 'monad')
 
 // Display Name: NEAR
 swapkit.set('NEAR', null)
