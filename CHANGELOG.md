@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- fixed: Fix max swap special case handling in thorchainCommon
+
 ## 2.40.4 (2026-01-15)
 
 - fixed: Fix Rango EVM approval address
